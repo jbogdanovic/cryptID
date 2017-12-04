@@ -37,4 +37,6 @@ Contributors:
   •	Daniel Burwitz
   •	Andrew Lessin
   •	Jovana Bogdanovich
-Also, for some of the more vague algorithms, we used the regular expressions from this github page, so partial credit goes to them for compiling a list of regular expressions for these types of algorithms
+***
+Also, for some of the more vague algorithms, we used the regular expressions from this github page(https://github.com/psypanda/hashID), so partial credit goes to them for compiling a list of regular expressions for these types of algorithms that we were able to use, saving us massive amounts of time we would have spent researching vague algorithms from the internet.
+***
