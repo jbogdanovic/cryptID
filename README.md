@@ -21,17 +21,27 @@
   CryptID also contains a “Report bug” button, which will take users to our Bug Reporting page. Finally, the “Help” button will take users to this readme file.
   
 ## Currently Supported Hashes:
-  At this time, CryptID currently supports 10 regular expressions of hashes, with more to eventually follow. These are contained within the expressions.cs file.
-  •	MD5
-  •	MD2
-  •	SHA-256
-  •	SHA-384
-  •	SHA-1
-  •	SHA-512
-  •	Crc32
-  •	RIPEMD-320
-  •	$nefru-256
-  •	Adler-32
+  At this time, CryptID currently supports 20 regular expressions of hashes, with more to eventually follow. These are contained within the expressions.cs file.
+  * Adler-32
+  * Blowfish
+  * CRC-16
+  * CRC-24
+  * CRC-32
+  * CRC-64
+  * LM
+  * MD2
+  * MD5
+  * NTLM
+  * RIPEMD-256
+  * RIPEMD-320
+  * SHA-1
+  * SHA-224
+  * SHA-384
+  * SHA-512
+  * Tiger-128
+  * Tiger-160
+  * Tiger-192
+  * $nefru-256
 
 ## Contributors:
   •	Thomas Lange
