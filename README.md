@@ -37,3 +37,4 @@ Contributors:
   •	Daniel Burwitz
   •	Andrew Lessin
   •	Jovana Bogdanovich
+Also, for some of the more vague algorithms, we used the regular expressions from this github page, so partial credit goes to them for compiling a list of regular expressions for these types of algorithms
