@@ -41,7 +41,7 @@
   * Tiger-128
   * Tiger-160
   * Tiger-192
-  * $nefru-256
+  * Snefru-256
 
 ## Contributors:
   •	Thomas Lange
