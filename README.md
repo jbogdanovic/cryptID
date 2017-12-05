@@ -5,6 +5,7 @@
 
 ## Motivation:
   While there are a few Linux and online applications to identify hashes, using methods like ours, applications for offline Windows usage are unfortunately lacking. Therefore, CryptID is an attempt to provide users of Windows another option for identifying cryptographic hashes. While this software was written for a Software Engineering undergrad class, we the developers will still do our best to provide updates to provide users with the best possible experience.
+  Initially our goal was to also to code the project in such a way as to return the probablility of the hashes along with their names, however, after doing more research into hashes and regular expressions, we realized that this is impossible to do with regular expressions. One regex cannot match more than another. Likewise, many of these hashes are designed to be indiscernable between eachother, thus, while it was an exciting idea, it nonetheless had to be scrapped.
 
 ## Installation:
   Currently, CryptID is only offered for Windows. You can download the executable from our GitHub page, our download the files separately and compile it yourself. There are currently no immediate plans to add support for other platforms.
