@@ -21,6 +21,8 @@
   CryptID also maintains a history file. If it is not already there, upon attempting to identify a hash a history file will be created in the same folder as CryptID. The user can then either view this file by double clicking it, or by clicking on the “History” button, which will show the user history.
   CryptID also contains a “Report bug” button, which will take users to our Bug Reporting page. Finally, the “Help” button will take users to this readme file.
   
+  <img width="632" alt="cryptidoverall" src="https://user-images.githubusercontent.com/25039787/33693067-d808d2d0-daad-11e7-9a61-a92841f725f6.PNG">
+  
 ## Currently Supported Hashes:
   At this time, CryptID currently supports 20 regular expressions of hashes, with more to eventually follow. These are contained within the expressions.cs file.
   * Adler-32
